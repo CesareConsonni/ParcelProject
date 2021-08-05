@@ -1,17 +1,23 @@
 # ParcelProject
 
-Classifying Images of different sizes acquired from a RGB-D sensor. Image characteristics:
+The following project was carried out for the course IMAGE ANALYSIS AND COMPUTER VISION.
 
-No color information provided
-A few pixels report depth measures
+Classifying Images of different sizes acquired from a RGB-D sensor.
+
+No color information provided and few pixels report depth measures.
+
 Images belong to 3 classes:
 * ENVELOPE
 * PARCEL
 * DOUBLE
 
+Plus an extra class:
+* OTHER
 
 Goal:
 
 Train a CNN able to classify these images in the three classes.
 Possibly compare the CNN performance with an hand-crafted classifier
 Dataset available: http://home.deib.polimi.it/boracchi/teaching/IC/IC_Lez2_DatasetParcel.zip
+
+Project is available at: [Parcel Project](https://colab.research.google.com/drive/15jYAsxBxdCxcsU3yT2rN4TZoX0YpM5kI).
