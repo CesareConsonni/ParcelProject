@@ -1,5 +1,7 @@
 # ParcelProject
 
+![image](https://user-images.githubusercontent.com/37812489/128364005-ac86690b-094e-4959-8c4a-a97931ca4f2c.png)
+
 The following project was carried out for the course IMAGE ANALYSIS AND COMPUTER VISION.
 
 Classifying Images of different sizes acquired from a RGB-D sensor.
