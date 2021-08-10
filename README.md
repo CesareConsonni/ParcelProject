@@ -4,7 +4,7 @@
 
 The following project was carried out for the course IMAGE ANALYSIS AND COMPUTER VISION.
 
-Classifying Images of different sizes acquired from a RGB-D sensor.
+The scope is to classify Images of different sizes acquired from a RGB-D sensor.
 
 No color information provided and few pixels report depth measures.
 
